@@ -1,0 +1,26 @@
+[
+    {
+        "name": "New Zealand",
+        "capitalCity": "Auckland",
+        "population": 1234,
+        "currency": "kiwi"
+    },
+    {
+        "name": "United States of America",
+        "capitalCity": "Washington D.C.",
+        "population": 378000000,
+        "currency": "dollar"
+    },
+    {
+        "name": "Ireland",
+        "capitalCity": "Dublin",
+        "population": 4000000,
+        "currency": "Euro"
+    },
+    {
+        "name": "Thailand",
+        "capitalCity": "Bangkok",
+        "population": 11000000,
+        "currency": "padthai"
+    }
+]
